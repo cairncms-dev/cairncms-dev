@@ -6,4 +6,4 @@ CairnCMS was born out of necessity, as my work relies on the success of the proj
 
 My background is in highly regulated enterprise environments, using mostly Rust and C, so security and efficiency are naturally just how I think about software. I'd like to think this is evident with the first changes I made to CairnCMS post-fork: stripping the telemetry and cleaning up hundreds of Dependabot alerts (oof).
 
-I am eager to build the CairnCMS community and I'm always happy to chat. Please feel free to reach out at hello@cairncms.dev.
+I am eager to build the CairnCMS community and I'm always happy to chat. Please feel free to reach out at hello@cairncms.dev. You can also join our subreddit at https://www.reddit.com/r/CairnCMS/ (although please route issues and requests through the GitHub, thanks).
